@@ -137,3 +137,4 @@ cd journalApp
 mvn clean package
 4️⃣ Run Application
 mvn spring-boot:run
+# trigger
